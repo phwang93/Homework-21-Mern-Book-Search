@@ -47,11 +47,15 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
+## Deployed URL for the Application 
+
+Heroku for the application: [Heroku](https://jate-app-ph.herokuapp.com).
 ## Table of Contents
 
 - [Homework-21-Mern-Book-Search](#homework-21-mern-book-search)
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
+  - [Deployed URL for the Application](#deployed-url-for-the-application)
   - [Table of Contents](#table-of-contents)
   - [Resources](#resources)
   - [Installation](#installation)
@@ -90,3 +94,4 @@ If you have any questions, please contact me at:
 * Email: [pshwang93@gmail.com](mailto:pshwang93@gmail.com). 
 * GitHub: [phwang93](https://github.com/phwang93).
 * Repo: [Homework-21-Mern-Book-Search](https://github.com/phwang93/Homework-21-Mern-Book-Search).
+* Heroku: [](https://jate-app-ph.herokuapp.com).

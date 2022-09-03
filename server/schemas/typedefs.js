@@ -35,6 +35,9 @@ const typeDefs = gql`
     saveBook(bookInput: BookInput): User
     removeBook(bookId: String!): User
   }
+  type Query {
+    me: User
+  }
   type Auth {
     token: ID!
     user: User

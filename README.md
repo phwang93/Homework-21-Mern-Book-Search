@@ -49,7 +49,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 ## Deployed URL for the Application 
 
-Heroku for the application: [Heroku](https://jate-app-ph.herokuapp.com).
+Heroku for the application: [Heroku](https://alegre-book-search-engine.herokuapp.com).
 ## Table of Contents
 
 - [Homework-21-Mern-Book-Search](#homework-21-mern-book-search)
@@ -94,4 +94,4 @@ If you have any questions, please contact me at:
 * Email: [pshwang93@gmail.com](mailto:pshwang93@gmail.com). 
 * GitHub: [phwang93](https://github.com/phwang93).
 * Repo: [Homework-21-Mern-Book-Search](https://github.com/phwang93/Homework-21-Mern-Book-Search).
-* Heroku: [](https://jate-app-ph.herokuapp.com).
+* Heroku: [Heroku](https://alegre-book-search-engine.herokuapp.com).
